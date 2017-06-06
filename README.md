@@ -1,2 +1,1 @@
-# Python-for-starting
-Recording my start at Python
+Some small Python programmes
